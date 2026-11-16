@@ -1,0 +1,8 @@
+# Firebase Cache and Logs
+.firebase/
+firebase-debug.log
+*ui-debug.log
+.firebaserc
+
+# Node dependencies (in case they are added later)
+node_modules/
